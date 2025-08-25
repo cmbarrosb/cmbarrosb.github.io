@@ -1,6 +1,9 @@
 # Carlos Barros
 
-![Profile Photo](profile.jpg)
+
+<img src="profile.jpg" alt="Profile Photo" width="200"/>
+
+<div style="background-color: #f5f5f5; padding: 15px; border-radius: 10px;">
 
 👋 Hi! I’m **Carlos Barros**, a driven Computer Scientist passionate about **Cloud Technologies** and **Cybersecurity**.  
 Currently pursuing my **B.S. in Computer Science at CUNY**, I enjoy tackling complex problems and building practical solutions.  
