@@ -5,8 +5,8 @@
 
 <div style="background-color: #f5f5f5; padding: 15px; border-radius: 10px;">
 
-👋 Hi! I’m **Carlos Barros**, a driven Computer Scientist passionate about **Cloud Technologies** and **Cybersecurity**.  
-Currently pursuing my **B.S. in Computer Science at CUNY**, I enjoy tackling complex problems and building practical solutions.  
+👋 Hi! I’m **Carlos Barros**, a driven Computer Scientist passionate about **LLM** and **Data Analytics**.  
+Currently pursuing my **B.S. in Computer Science at CUNY/Queens College**, I enjoy tackling complex problems and building practical solutions.  
 
 💡 **Fun Fact:** I love working on vintage cameras and film photography in my free time.  
 
